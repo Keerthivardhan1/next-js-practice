@@ -8,7 +8,7 @@ export default function Home() {
           Get started by editing&nbsp;
           <code className="font-mono font-bold">app/page.tsx</code>
         </p> */}
-      <h1>Hello</h1>
+      <h1>krerthivardhan</h1>
       <div className="flex gap-3 ">
         <Link  href='/pages/home'>Home</Link>
         <Link href='/pages/news'>News</Link>
